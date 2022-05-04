@@ -7,6 +7,7 @@ import 'package:myproject2/widjets/page3.dart';
 import 'package:myproject2/widjets/page4.dart';
 import 'package:myproject2/widjets/page5.dart';
 import 'package:myproject2/widjets/page6.dart';
+import 'package:myproject2/widjets/page7.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,7 +25,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: Page6(),
+      home: Page7(),
     );
   }
 }
